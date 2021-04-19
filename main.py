@@ -1,18 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import random
 flip_sides = []
 heads = ["heads"]
